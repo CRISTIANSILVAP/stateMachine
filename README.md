@@ -80,7 +80,6 @@ FRONTEND_URL=http://localhost:5173
 PORT=5000
 NODE_ENV=development
 MONGODB_DB_NAME=stateMachine
-PAYMENT_REVIEW_THRESHOLD=1000
 LOG_LEVEL=info
 ```
 
@@ -90,7 +89,6 @@ LOG_LEVEL=info
 - **`FRONTEND_URL`** (obligatorio) → URL del frontend que está permitido acceder a esta API (para CORS)
 - **`PORT`** (default 5000) → Puerto donde escucha el servidor
 - **`NODE_ENV`** (default development) → Entorno: `development`, `production`, `test`
-- **`PAYMENT_REVIEW_THRESHOLD`** (default 1000) → Monto en USD a partir del cual se crea un ticket de soporte si el pago falla
 
 ---
 
