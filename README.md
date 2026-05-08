@@ -1,5 +1,19 @@
 # State Machine API - Sistema de Gestión de Órdenes
 
+## Demostración en video
+
+[![Estado de máquina de órdenes - Demo](https://img.youtube.com/vi/zOa9p6CRm4A/0.jpg)](https://youtu.be/zOa9p6CRm4A)
+
+**[Mira el video completo de demostración aquí](https://youtu.be/zOa9p6CRm4A)**
+
+
+En el video verás:
+- Crear un producto
+- Crear una orden
+- Procesar eventos (cambios de estado)
+- Consultar el historial completo de eventos
+- Manejo de errores (transiciones inválidas)
+
 ## ¿Qué es este proyecto?
 
 Este es un **API REST implementada con TypeScript, Fastify y MongoDB** que gestiona **órdenes de compra usando una máquina de estados**. 
@@ -399,21 +413,5 @@ async applyTransition(input) {
 ```
 
 
-
-## Demostración en video
-
-¿Quieres ver la app en acción?
-
-[![Estado de máquina de órdenes - Demo](https://img.youtube.com/vi/zOa9p6CRm4A/0.jpg)](https://youtu.be/zOa9p6CRm4A)
-
-**[Mira el video completo de demostración aquí](https://youtu.be/zOa9p6CRm4A)**
-
-
-En el video verás:
-- Crear un producto
-- Crear una orden
-- Procesar eventos (cambios de estado)
-- Consultar el historial completo de eventos
-- Manejo de errores (transiciones inválidas)
 
 
