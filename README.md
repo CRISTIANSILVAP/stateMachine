@@ -20,6 +20,11 @@ La idea principal es que cada orden pasa por diferentes estados (Pending → Pen
  **Documentación en el código** con JSDoc  
 
 ---
+## Repositorio del FrontEnd
+El frontend de este proyecto se encuentra en el siguiente repositorio:
+
+🔗 https://github.com/CRISTIANSILVAP/stateMachineFront
+
 ## Demostración en video
 
 [![Estado de máquina de órdenes - Demo](https://img.youtube.com/vi/zOa9p6CRm4A/0.jpg)](https://youtu.be/zOa9p6CRm4A)
