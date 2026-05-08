@@ -417,10 +417,3 @@ En el video verás:
 - Manejo de errores (transiciones inválidas)
 
 
-## Licencia
-
-ISC
-
----
-
-**¡Gracias por usar este proyecto!** 🚀
